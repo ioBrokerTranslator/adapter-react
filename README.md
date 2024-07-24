@@ -1,3 +1,7 @@
+Deprecated: please use [adapter-react-v5](https://github.com/ioBroker/adapter-react-v5)
+
+
+
 # Help ReactJS classes for adapter config
 > :warning: **This package is deprecated!** Please use https://github.com/ioBroker/adapter-react-v5 !
 
